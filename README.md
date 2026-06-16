@@ -2,7 +2,8 @@
 
 A data analytics dashboard built to uncover meaningful insights from Hospital Emergency Room data — helping stakeholders understand patient flow, wait times, departmental load, and satisfaction trends at a glance.
 
-![Hospital Emergency Room Dashboard](<img width="1801" height="818" alt="Hospital Dashboard Final" src="https://github.com/user-attachments/assets/f7d44baa-addc-4372-b9f2-326e781bd748" />
+![Hospital Emergency Room Dashboard](<img width="1801" height="818" alt="Hospital Dashboard Final" src="https://github.com/user-attachments/assets/c2427e26-5d4a-48f9-96af-4dcd032f149c" />
+
 )
 
 ---
